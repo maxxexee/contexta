@@ -60,4 +60,4 @@ The frontend is static HTML with no build step. The backend is the n8n workflow 
 
 ## Status
 
-The landing, signup, and activation flow run end to end. Summary quality depends on the Membit endpoint and prompt config in the Code nodes, which is where the work actually went.
+The landing page is live at https://contexta-io.netlify.app. Signup, activation codes, and delivery are handled by the workflow above. How good the digests are depends on the Membit endpoint and the prompts in the Code nodes, which is where most of the work went.
